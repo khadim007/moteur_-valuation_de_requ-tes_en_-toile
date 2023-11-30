@@ -1,0 +1,12 @@
+Pour la requete 1:
+Clé :3, Valeur :http://db.uwaterloo.ca/~galuc/wsdbm/Offer195
+--------------------
+Pour la requete 2:
+Clé :5, Valeur :http://db.uwaterloo.ca/~galuc/wsdbm/User0
+--------------------
+Pour la requete 3:
+Clé :13, Valeur :http://db.uwaterloo.ca/~galuc/wsdbm/User12
+--------------------
+Pour la requete 4:
+Clé :20, Valeur :http://db.uwaterloo.ca/~galuc/wsdbm/User38
+--------------------

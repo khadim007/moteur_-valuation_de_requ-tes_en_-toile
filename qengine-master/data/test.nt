@@ -1,0 +1,18 @@
+<http://db.uwaterloo.ca/~galuc/wsdbm/Offer9>	<http://schema.org/eligibleRegion>	<http://db.uwaterloo.ca/~galuc/wsdbm/Country102> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/Offer195>	<http://schema.org/eligibleRegion>	<http://db.uwaterloo.ca/~galuc/wsdbm/Country137> .
+
+<http://db.uwaterloo.ca/~galuc/wsdbm/User0>	<http://db.uwaterloo.ca/~galuc/wsdbm/likes>	<http://db.uwaterloo.ca/~galuc/wsdbm/Product87> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User0>	<http://db.uwaterloo.ca/~galuc/wsdbm/likes>	<http://db.uwaterloo.ca/~galuc/wsdbm/Product0> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User9>	<http://db.uwaterloo.ca/~galuc/wsdbm/likes>	<http://db.uwaterloo.ca/~galuc/wsdbm/Product0> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User0>	<http://schema.org/nationality>	<http://db.uwaterloo.ca/~galuc/wsdbm/Country3> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User245>	<http://schema.org/nationality>	<http://db.uwaterloo.ca/~galuc/wsdbm/Country3> .
+
+<http://db.uwaterloo.ca/~galuc/wsdbm/User12>	<http://purl.org/dc/terms/Location>	<http://db.uwaterloo.ca/~galuc/wsdbm/City237> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User12>	<http://db.uwaterloo.ca/~galuc/wsdbm/gender>	<http://db.uwaterloo.ca/~galuc/wsdbm/Gender0> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User12>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://db.uwaterloo.ca/~galuc/wsdbm/Role2> .
+
+<http://db.uwaterloo.ca/~galuc/wsdbm/User38>	<http://purl.org/dc/terms/Location>	<http://db.uwaterloo.ca/~galuc/wsdbm/City1> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User38>	<http://schema.org/nationality>	<http://db.uwaterloo.ca/~galuc/wsdbm/Country24> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User38>	<http://db.uwaterloo.ca/~galuc/wsdbm/gender>	<http://db.uwaterloo.ca/~galuc/wsdbm/Gender1> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User37>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://db.uwaterloo.ca/~galuc/wsdbm/Role2> .
+<http://db.uwaterloo.ca/~galuc/wsdbm/User38>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://db.uwaterloo.ca/~galuc/wsdbm/Role2> .

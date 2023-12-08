@@ -43,6 +43,7 @@ public class Index {
 		
 		for (Statement st : statementList) {
 			String subject = st.getSubject().toString();
+			@SuppressWarnings("deprecation")
 			String predicate = st.getPredicate().toString();
 			String object = st.getObject().toString();
 			int keySub = -1;

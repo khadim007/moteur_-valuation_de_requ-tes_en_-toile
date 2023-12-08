@@ -1,0 +1,7 @@
+"Nom Fichier Données","Nom Dossier Requetes","Nombre Triplets RDF","Nombre Requetes","Temps Lecture Données","Temps Lecture Requetes","Temps Création Dico","Nombre d’Index","Temps Création Index","Temps Total d’évaluation du workload","Temps Total du Programme"
+"data/100K.nt","data/STAR_ALL_workload.queryset","107338","1200","988","1619","30413","6","47978","4241","83881"
+"data/100K.nt","data/test.queryset","107338","3","918","103","33338","6","43680","1803","79744"
+"data/test.nt","data/test.queryset","15","3","503","99","0","6","2","898","1404"
+"data/test.nt","data/test.queryset","15","3","385","106","1","6","1","911","1300"
+"data/100K.nt","data/STAR_ALL_workload.queryset","107338","1200","1067","1657","35125","6","46241","4176","86880"
+"data/100K.nt","data/STAR_ALL_workload.queryset","107338","1200","1010","1567","26892","6","41276","4322","73731"
